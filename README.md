@@ -1,4 +1,4 @@
-# interestrate_py
+# interestrate_pyplot
 
 Calculate future account balance with gains from interest rate.
 
